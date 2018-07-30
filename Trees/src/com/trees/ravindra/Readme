@@ -1,0 +1,14 @@
+1. L followed by R in any traversal. 
+	IN Order   - LNR (N - Root Node)
+	Pre Order  - NLR
+	Post Order - LRN
+2. Any problem can be done by using either PreOrder or PostOrder or Inorder. 
+   Identify the problem and try to figure out which traversal fits.
+3. remember pre and post and in order code handy
+4. Tree traversal space and time complexity is O(N).
+5. No of binary trees possibled unlabled  -2nCn/n+1 . if its labled - (2ncn/n+1)*n!.
+6. How to get unique binary tree -  (pre or post) and inorder traversals
+7. In order traversal of a binary search tree gives elements in sorted order
+8. Usually BST contans unique numbers as BST is used to store primary keys. 
+   But again it depends on how ever we want to use it.
+9. gven pre-order traversal of a BST find inorder traversal.
